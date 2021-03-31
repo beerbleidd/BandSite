@@ -1,0 +1,20 @@
+body {
+  background-color: #cccccc;
+}
+header {
+  background-color: gray;
+}
+header h1 {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  background-color: darkslategrey;
+}
+.title p {
+  font-size: 25px;
+}
+.title h1 {
+  font-size: 50px;
+  margin-top: 25%;
+}
