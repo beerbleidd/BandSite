@@ -2,14 +2,14 @@ body {
   background-color: #cccccc;
 }
 header {
-  background-color: gray;
+  background-color: #666666;
 }
 header h1 {
   text-align: center;
 }
 .title {
   text-align: center;
-  background-color: darkslategrey;
+  background-color: #666666;
 }
 .title p {
   font-size: 25px;
