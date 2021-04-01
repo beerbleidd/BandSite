@@ -1,15 +1,25 @@
 body {
-  background-color: #cccccc;
+  background-color: #e0dbc5;
 }
 header {
-  background-color: #666666;
+  background-color: #1c9675;
 }
 header h1 {
   text-align: center;
+  color: #ffffcc;
+}
+.menu {
+  list-style: none;
+  text-align: center;
+  word-spacing: 25px;
+  font-size: 20px;
+}
+.menu li {
+  display: inline;
 }
 .title {
   text-align: center;
-  background-color: #666666;
+  background-image: url("https://im0-tub-ru.yandex.net/i?id=2e71e451b4c98e1d73f1210616a30462&n=13&exp=1");
 }
 .title p {
   font-size: 25px;
